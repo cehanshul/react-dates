@@ -34,7 +34,7 @@ node_modules
 
 # build folder
 # lib
-esm
+#esm
 test-build
 .idea
 
